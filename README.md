@@ -112,7 +112,7 @@
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 </p>
-# 🚀 Featured Projects
+ 🚀 Featured Projects
 
 ## 🌍 WanderGenie — AI Travel Planner
 
