@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Vani Makhija
 
-### Computer Science (Data Science) Undergraduate | Software Developer | Machine Learning Enthusiast
+
+### CSoftware Developer • AI & Machine Learning • Data Analytics
+### Building intelligent software that transforms data into impactful solutions.
 
 <div align="center">
   <img src="./outputt.gif" width="40%">
@@ -64,17 +66,14 @@
 
 📊 CGPA: **8.71/10**
 
-# 🚀 Currently Working On
 
-✅ AI-powered Full Stack Applications
+# 🚀 What I'm Building
 
-✅ Machine Learning Projects
-
-✅ Power BI Dashboards
-
-✅ Java DSA & Interview Preparation
-
-✅ Backend Development using FastAPI
+- 🌍 AI-powered Travel Planning Applications
+- 📈 Data Analytics Dashboards
+- 🤖 Machine Learning Solutions
+- 🔐 Secure Full-Stack Web Applications
+- 💻 Backend APIs with FastAPI
 
 <p align="center">
 
@@ -166,19 +165,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vanimakhija&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimakhija&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=vanimakhija&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanimakhija&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanimakhija&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
