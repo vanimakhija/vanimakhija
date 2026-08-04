@@ -5,9 +5,7 @@
 ### Computer Science (Data Science) Undergraduate | Software Developer | Machine Learning Enthusiast
 
 <div align="center">
-
-<img src="./outputt.gif" width="100%">
-
+  <img src="./outputt.gif" width="40%">
 </div>
 
 <br>
