@@ -34,7 +34,7 @@
 
 # 💫 About Me
 
-🎓 Final Year B.Tech Computer Science Engineering (Data Science) at **VIT Chennai** (CGPA: **8.71/10**)
+🎓 Final Year B.Tech Computer Science Engineering (Data Science) at **VIT Chennai** 
 
 💡 I enjoy transforming ideas into real-world software by combining **Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development**.
 
