@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./outputtt.gif" width="100%">
+<img src="./outputt.gif" width="100%">
 
 </div>
 
