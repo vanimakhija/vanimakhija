@@ -1,100 +1,219 @@
 <div align="center">
 
-  <h1>Hi, I'm Vani Makhija 👋</h1>
-  <h3>Computer Science & Data Science Undergraduate | Software & ML Developer</h3>
+# Hi 👋 I'm Vani Makhija
 
-  <p><i>Building scalable software, intelligent data pipelines, and full-stack AI applications.</i></p>
+### 🚀 Computer Science (Data Science) Undergraduate | Machine Learning Enthusiast | Software Developer
 
-  <a href="https://github.com/vanimakhija" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/vanimakhija" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:makhijavani2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="Assets/output.gif" alt="Vani Makhija - Developer Hero Showcase" width="100%" max-width="750px" style="border-radius: 12px;" />
-</div>
-
-<br />
-
----
-
-## 👩‍💻 About Me
-
-- [cite_start]🎓 **Education:** Pursuing B.Tech in Computer Science Engineering (Data Science) at **VIT Chennai** (CGPA: 8.71)[cite: 8, 9, 10].
-- [cite_start]💼 **Experience:** Former IT Intern at **IFFCO, New Delhi** working with enterprise Oracle DBs, cloud architectures, and REST APIs[cite: 29, 31, 32].
-- [cite_start]🚀 **Currently Building:** Full-stack AI applications with Next.js, FastAPI, and machine learning models[cite: 78, 88].
-- [cite_start]🏆 **Certifications:** Oracle Cloud Infrastructure 2025 AI Foundations Associate[cite: 102].
-- [cite_start]🧩 **Problem Solving:** Solved **300+ Data Structures & Algorithms** problems across platforms[cite: 6, 101].
-- [cite_start]💬 **Ask me about:** Python, Data Science, Machine Learning, Web Development, and System Architecture[cite: 6, 58, 65].
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,r,react,nextjs,fastapi,flask&perline=8" alt="Languages and Frameworks" />
+Building intelligent software using AI, Machine Learning, Full-Stack Development and Data Analytics.
 </p>
 
-### Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,aws,docker&perline=6" alt="Databases and Cloud" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Machine+Learning+Developer;Data+Science+Enthusiast;Java+%7C+Python+%7C+SQL;Building+AI-Powered+Applications;300%2B+DSA+Problems+Solved" />
 
-### Machine Learning & Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+<br>
 
-### Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools" />
-</p>
+<a href="https://github.com/[YOUR_GITHUB]">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</div>
+<a href="[YOUR_LINKEDIN]">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="[YOUR_INSTAGRAM]">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
-## 🌟 Highlighted Projects
+<a href="[YOUR_WEBSITE]">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[WanderGenie](https://github.com/vanimakhija)** | `Next.js` `FastAPI` `LLaMA 3.3` | [cite_start]Full-stack AI travel planner generating dynamic itineraries with real-time weather integration[cite: 77, 78, 80, 81]. |
-| **[NetGuardAI](https://github.com/vanimakhija)** | `Python` `Flask` `Scikit-learn` `Docker` | [cite_start]Real-time network intrusion detection system achieving 95.2% accuracy[cite: 82, 84, 85, 86]. |
-| **[Emotion Encryption](https://github.com/vanimakhija)** | `Next.js` `FastAPI` `AES` `OAuth` | [cite_start]Sentiment-adaptive secure messaging application with end-to-end authentication[cite: 87, 88, 89]. |
-| **[Retail Trends Analysis](https://github.com/vanimakhija)** | `Python` `PostgreSQL` `Power BI` | [cite_start]Analyzed 3,900+ customer transactions to build interactive sales analytics dashboards[cite: 35, 36, 38, 40]. |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=vanimakhija&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Vani's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimakhija&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanimakhija&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<a href="mailto:[YOUR_EMAIL]">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <p><i>Designed & Built by Vani Makhija</i></p>
+
+<img src="./Assets/output.gif" width="100%" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 Final Year B.Tech Computer Science (Data Science)
+
+💡 Passionate about solving real-world problems using AI and Machine Learning.
+
+💻 Interested in
+
+- Machine Learning
+- Data Science
+- Backend Development
+- Full Stack Development
+- Generative AI
+
+🏆 Oracle Cloud Infrastructure AI Foundations Certified
+
+🧩 Solved **300+ Data Structures & Algorithms** problems.
+
+---
+
+# 🚀 Currently Working On
+
+- 🤖 AI Powered Applications
+- 📈 Machine Learning Projects
+- ⚡ FastAPI Backend Development
+- 📊 Power BI Dashboards
+- 💻 Java Interview Preparation
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,r"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+---
+
+## AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+</p>
+
+---
+
+## Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌍 WanderGenie | AI-powered travel planner with personalized itineraries, weather integration, and smart packing recommendations. |
+| 🌫 AI AQI Prediction | Machine Learning + YOLO based pollution source detection and AQI prediction. |
+| 📊 Retail Sales Dashboard | Python, SQL, and Power BI dashboard for customer and sales analytics. |
+| 💻 Java DSA Repository | 300+ LeetCode and DSA solutions organized topic-wise. |
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB]&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB]&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB]&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Power BI
+- System Design
+- FastAPI
+- React
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="[YOUR_LINKEDIN]">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:[YOUR_EMAIL]">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/[YOUR_GITHUB]">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Turning ideas into intelligent software through AI, Data Science, and clean code."
+
 </div>
