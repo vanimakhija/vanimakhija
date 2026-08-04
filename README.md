@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Vani Makhija
 
 
-### CSoftware Developer • AI & Machine Learning • Data Analytics
+### Software Developer • AI & Machine Learning • Data Analytics
 ### Building intelligent software that transforms data into impactful solutions.
 
 <div align="center">
