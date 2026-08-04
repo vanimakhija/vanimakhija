@@ -34,26 +34,25 @@
 
 # 💫 About Me
 
-🎓 Final Year B.Tech Computer Science Engineering (Data Science) at **VIT Chennai**
+🎓 Final Year B.Tech Computer Science Engineering (Data Science) at **VIT Chennai** (CGPA: **8.71/10**)
 
-💡 Passionate about building intelligent software using Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.
+💡 I enjoy transforming ideas into real-world software by combining **Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development**.
 
 🏆 Oracle Cloud Infrastructure 2025 AI Foundations Associate
 
-🧩 Solved **300+ Data Structures & Algorithms** problems.
+🧩 Solved **300+ Data Structures & Algorithms** problems while strengthening problem-solving and software engineering skills.
 
-🌱 Currently exploring scalable backend systems, Generative AI applications, and modern software engineering practices.
+🚀 Passionate about developing scalable applications, exploring AI-driven solutions, and continuously learning modern technologies.
 
-💬 Ask me about
+---
 
-- Java
-- Python
-- Machine Learning
-- Data Science
-- SQL
-- FastAPI
-- React
-- Power BI
+## 🌟 What Defines Me
+
+- 💻 Building end-to-end software solutions
+- 🤖 Applying AI & Machine Learning to real-world problems
+- 📊 Turning data into actionable insights
+- 🌐 Developing modern web applications and APIs
+- 🧠 Continuously learning and improving through hands-on projects
 
 
 # 🎓 Education
@@ -67,13 +66,14 @@
 📊 CGPA: **8.71/10**
 
 
-# 🚀 What I'm Building
+# 🎯 Focus Areas
 
-- 🌍 AI-powered Travel Planning Applications
-- 📈 Data Analytics Dashboards
-- 🤖 Machine Learning Solutions
-- 🔐 Secure Full-Stack Web Applications
-- 💻 Backend APIs with FastAPI
+🧠 Artificial Intelligence & Machine Learning
+💻 Software Engineering
+📊 Data Analytics & Business Intelligence
+⚡ Backend Development
+🌐 Full-Stack Development
+🧩 Problem Solving & Algorithms
 
 <p align="center">
 
