@@ -4,7 +4,11 @@
 
 ### Computer Science (Data Science) Undergraduate | Software Developer | Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Machine+Learning+Enthusiast;Java+%7C+Python+%7C+SQL;Building+AI-Powered+Applications;300%2B+DSA+Problems+Solved" />
+<div align="center">
+
+<img src="./outputtt.gif" width="100%">
+
+</div>
 
 <br>
 
